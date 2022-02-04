@@ -21,13 +21,13 @@ publisher_data:
   year_started: "2016"
   dribbble_username:
   facebook_username:
-  github_username:
+  github_username: Shannia-Ek
   google_plus_username:
-  instagram_username:
+  #instagram_username:
   linkedin_username:
-  pinterest_username: elumina_me
-  soundcloud_username: elumina_me
-  twitter_username: elumina_me
+  #pinterest_username: elumina_me
+  #soundcloud_username: elumina_me
+  #twitter_username: elumina_me
   tumblr_username:
   youtube_username:
   site_xml_feed: false  # true or false
