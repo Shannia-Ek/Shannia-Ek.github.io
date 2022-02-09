@@ -8,7 +8,7 @@ description: >- # this means to ignore newlines until next variable
   Mnmal-One is a minimalist one page Jekyll theme with sleek typography, abundant white-space, and carefully crafted code.
 
 baseurl: "Shannia-Ek.github.io"
-url: "https://jekyll.elumina.me"
+url: "Shannia-Ek.github.io"
 
 publisher_data:
   type: Organization
