@@ -24,14 +24,14 @@ publisher_data:
   github_username: Shannia-Ek
   google_plus_username:
   #instagram_username:
-  linkedin_username:
+  #linkedin_username:
   #pinterest_username: elumina_me
   #soundcloud_username: elumina_me
   #twitter_username: elumina_me
-  tumblr_username:
+  #tumblr_username:
   youtube_username:
   site_xml_feed: false  # true or false
-  email: email@elumina.me
+  #email: email@elumina.me
   favicon_2x: /assets/images/logo-favicon@2x.png
   favicon: /assets/images/logo-favicon.png
   favicon_width: 72  # without unit
